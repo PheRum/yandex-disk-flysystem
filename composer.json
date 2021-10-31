@@ -28,5 +28,11 @@
 		"psr-4": {
 			"Arhitector\\Yandex\\Disk\\Adapter\\": "src/"
 		}
-	}
+	},
+    "repositories": [
+        {
+            "type": "git",
+            "url": "https://github.com/PheRum/yandex.git"
+        }
+    ]
 }
